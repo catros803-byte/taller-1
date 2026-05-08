@@ -1,0 +1,14 @@
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\taller1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\taller1.AssemblyInfoInputs.cache
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\taller1.AssemblyInfo.cs
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\taller1.csproj.CoreCompileInputs.cache
+D:\Documents\visualStudioProjects\taller1\taller1\bin\Debug\net10.0\taller1.exe
+D:\Documents\visualStudioProjects\taller1\taller1\bin\Debug\net10.0\taller1.deps.json
+D:\Documents\visualStudioProjects\taller1\taller1\bin\Debug\net10.0\taller1.runtimeconfig.json
+D:\Documents\visualStudioProjects\taller1\taller1\bin\Debug\net10.0\taller1.dll
+D:\Documents\visualStudioProjects\taller1\taller1\bin\Debug\net10.0\taller1.pdb
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\taller1.dll
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\refint\taller1.dll
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\taller1.pdb
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\taller1.genruntimeconfig.cache
+D:\Documents\visualStudioProjects\taller1\taller1\obj\Debug\net10.0\ref\taller1.dll
